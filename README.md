@@ -1,10 +1,10 @@
 # 💫About Me :
-👋 Hello, I am Gurpreet
-🤖 Passionate about Machine Learning and Data Analytics
-🧠 Currently learning about Time Series Analysis
-🏫 Undergraduate at NIT Jalandhar
-🤗 Always excited to collaborate and grow together.
-📥 Reach out to me through my mail (Gurpreet)[gurpreetmeelu900@gmail.com)
+- 👋 Hello, I am Gurpreet
+- 🤖 Passionate about Machine Learning and Data Analytics
+- 🧠 Currently learning about Time Series Analysis
+- 🏫 Undergraduate at NIT Jalandhar
+- 🤗 Always excited to collaborate and grow together.
+- 📥 Reach out to me through my mail (Gurpreet)[gurpreetmeelu900@gmail.com)
 
 
 
