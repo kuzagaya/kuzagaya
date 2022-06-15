@@ -4,7 +4,8 @@
 - 🧠 Currently learning about Time Series Analysis
 - 🏫 Undergraduate at NIT Jalandhar
 - 🤗 Always excited to collaborate and grow together.
-- 📥 Reach out to me through my mail [Gurpreet](mailto: gurreetmeelu900@gmail.com)
+- 📥 Reach out to me through my mail [gurpreetmeelu900@gmail.com](mailto:gurpreetmeelu900@gmail.com)
+
 
 
 
